@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "30ec5f5a-3ddc-45ca-b6c4-45fe99dcac8a",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 116,
+  "height": 48,
+  "platformSettings": {},
+  "subMetas": {
+    "highway_01_layered_0004_Layer-5": {
+      "ver": "1.0.6",
+      "uuid": "ab8783be-afa8-4155-bab5-e1f2b4d331d2",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "30ec5f5a-3ddc-45ca-b6c4-45fe99dcac8a",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -0.5,
+      "offsetY": 0,
+      "trimX": 1,
+      "trimY": 0,
+      "width": 113,
+      "height": 48,
+      "rawWidth": 116,
+      "rawHeight": 48,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

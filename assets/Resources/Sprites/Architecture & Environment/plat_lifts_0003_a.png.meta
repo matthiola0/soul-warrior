@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "9c560771-6d7f-48a6-bf32-188a0e2f2637",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 7,
+  "height": 219,
+  "platformSettings": {},
+  "subMetas": {
+    "plat_lifts_0003_a": {
+      "ver": "1.0.6",
+      "uuid": "5e58e5e8-8d3a-4b11-bad7-b95fa17709fc",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "9c560771-6d7f-48a6-bf32-188a0e2f2637",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 7,
+      "height": 219,
+      "rawWidth": 7,
+      "rawHeight": 219,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

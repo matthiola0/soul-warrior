@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "cbb13461-bfdc-47fa-ba8e-a44448deb818",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 96,
+  "height": 206,
+  "platformSettings": {},
+  "subMetas": {
+    "stagdoor_0003_Color-Balance-1-copy-15": {
+      "ver": "1.0.6",
+      "uuid": "c1931a16-3946-4192-8242-b95ba63f2f61",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "cbb13461-bfdc-47fa-ba8e-a44448deb818",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 96,
+      "height": 206,
+      "rawWidth": 96,
+      "rawHeight": 206,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

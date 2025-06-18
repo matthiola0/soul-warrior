@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "e8f3f140-320f-4f44-a743-0aa51009a771",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 369,
+  "height": 187,
+  "platformSettings": {},
+  "subMetas": {
+    "ancient_wall_pieces_0000_white": {
+      "ver": "1.0.6",
+      "uuid": "cdafc0f1-9aab-47c1-9086-18535f5b1395",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "e8f3f140-320f-4f44-a743-0aa51009a771",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -27,
+      "offsetY": 19.5,
+      "trimX": 2,
+      "trimY": 3,
+      "width": 311,
+      "height": 142,
+      "rawWidth": 369,
+      "rawHeight": 187,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "6e4009b3-c79f-43d0-9fff-73fa513872df",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 1393,
+  "height": 662,
+  "platformSettings": {},
+  "subMetas": {
+    "Ouiji_Cave_0010_bg_mid": {
+      "ver": "1.0.6",
+      "uuid": "4fbebff9-89fb-417c-956b-7190cb9bdca4",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "6e4009b3-c79f-43d0-9fff-73fa513872df",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": -0.5,
+      "trimX": 2,
+      "trimY": 1,
+      "width": 1389,
+      "height": 661,
+      "rawWidth": 1393,
+      "rawHeight": 662,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

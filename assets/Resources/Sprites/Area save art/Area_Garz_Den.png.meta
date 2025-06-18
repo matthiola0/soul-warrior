@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "d8dd427e-b403-4878-952d-4f9d6777af7d",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 736,
+  "height": 117,
+  "platformSettings": {},
+  "subMetas": {
+    "Area_Garz_Den": {
+      "ver": "1.0.6",
+      "uuid": "91673864-f159-49eb-85a9-8fa5d9bb400d",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "d8dd427e-b403-4878-952d-4f9d6777af7d",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 4.5,
+      "offsetY": 0,
+      "trimX": 10,
+      "trimY": 0,
+      "width": 725,
+      "height": 117,
+      "rawWidth": 736,
+      "rawHeight": 117,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

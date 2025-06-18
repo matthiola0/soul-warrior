@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "19e9ca8c-87b2-435b-9684-c9e3869c53ee",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 78,
+  "height": 210,
+  "platformSettings": {},
+  "subMetas": {
+    "tutorial_poles_0003_b1": {
+      "ver": "1.0.6",
+      "uuid": "c16dc3db-1e3c-4c92-b187-305a9d043e6d",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "19e9ca8c-87b2-435b-9684-c9e3869c53ee",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 78,
+      "height": 210,
+      "rawWidth": 78,
+      "rawHeight": 210,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

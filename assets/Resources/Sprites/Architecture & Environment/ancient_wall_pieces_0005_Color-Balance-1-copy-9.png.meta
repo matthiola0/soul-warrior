@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "804f1778-0a61-45bc-8f5f-1db1e1117c75",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 466,
+  "height": 200,
+  "platformSettings": {},
+  "subMetas": {
+    "ancient_wall_pieces_0005_Color-Balance-1-copy-9": {
+      "ver": "1.0.6",
+      "uuid": "a32bf433-7373-4682-9197-0720843ee8ee",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "804f1778-0a61-45bc-8f5f-1db1e1117c75",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 466,
+      "height": 200,
+      "rawWidth": 466,
+      "rawHeight": 200,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

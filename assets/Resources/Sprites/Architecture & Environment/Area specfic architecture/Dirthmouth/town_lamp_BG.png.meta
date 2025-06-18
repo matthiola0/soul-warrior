@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "cc62edcd-5ccd-41bb-8c4d-92e6b674b7f5",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 140,
+  "height": 237,
+  "platformSettings": {},
+  "subMetas": {
+    "town_lamp_BG": {
+      "ver": "1.0.6",
+      "uuid": "d16129aa-65ac-4fae-8bfc-72f015ca42fb",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "cc62edcd-5ccd-41bb-8c4d-92e6b674b7f5",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 140,
+      "height": 237,
+      "rawWidth": 140,
+      "rawHeight": 237,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

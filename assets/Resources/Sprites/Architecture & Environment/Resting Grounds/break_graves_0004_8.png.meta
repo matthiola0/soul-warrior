@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "81874569-3ec9-4798-9fa6-411d15615970",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 64,
+  "height": 167,
+  "platformSettings": {},
+  "subMetas": {
+    "break_graves_0004_8": {
+      "ver": "1.0.6",
+      "uuid": "3d99928d-7174-400c-92a0-e65044a306bd",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "81874569-3ec9-4798-9fa6-411d15615970",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 64,
+      "height": 167,
+      "rawWidth": 64,
+      "rawHeight": 167,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

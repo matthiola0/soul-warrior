@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "f7be99d6-e4e6-4989-84b3-7c725ca948e6",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 308,
+  "height": 102,
+  "platformSettings": {},
+  "subMetas": {
+    "ruin_village_thing_0001_a": {
+      "ver": "1.0.6",
+      "uuid": "90bce8b0-45e4-429f-8fcb-e879efa6706f",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "f7be99d6-e4e6-4989-84b3-7c725ca948e6",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 308,
+      "height": 102,
+      "rawWidth": 308,
+      "rawHeight": 102,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

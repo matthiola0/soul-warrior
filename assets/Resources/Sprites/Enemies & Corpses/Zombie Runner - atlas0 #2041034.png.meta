@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "a7ce67f4-9f3e-44ed-80a4-2fa7bfa7bf94",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 512,
+  "height": 1024,
+  "platformSettings": {},
+  "subMetas": {
+    "Zombie Runner - atlas0 #2041034": {
+      "ver": "1.0.6",
+      "uuid": "afe2f797-79c2-40ee-8bb8-b3738d50a1df",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "a7ce67f4-9f3e-44ed-80a4-2fa7bfa7bf94",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": -14.5,
+      "trimX": 0,
+      "trimY": 29,
+      "width": 512,
+      "height": 995,
+      "rawWidth": 512,
+      "rawHeight": 1024,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

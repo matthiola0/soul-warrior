@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "78fb28a9-8bbe-4414-832f-1bc3d35c6fee",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 450,
+  "height": 368,
+  "platformSettings": {},
+  "subMetas": {
+    "Team Cherry Logo_large": {
+      "ver": "1.0.6",
+      "uuid": "42057ad5-af22-4bfd-9e0e-e57e0038de18",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "78fb28a9-8bbe-4414-832f-1bc3d35c6fee",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -0.5,
+      "offsetY": 0.5,
+      "trimX": 13,
+      "trimY": 7,
+      "width": 423,
+      "height": 353,
+      "rawWidth": 450,
+      "rawHeight": 368,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

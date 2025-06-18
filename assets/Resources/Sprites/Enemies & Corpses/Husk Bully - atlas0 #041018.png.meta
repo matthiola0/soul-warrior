@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "a3e3d353-aadc-4349-9cb4-c0357bf660df",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 512,
+  "height": 1024,
+  "platformSettings": {},
+  "subMetas": {
+    "Husk Bully - atlas0 #041018": {
+      "ver": "1.0.6",
+      "uuid": "107ce17a-aece-4b5c-b77d-c1e35980ed01",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "a3e3d353-aadc-4349-9cb4-c0357bf660df",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": -28,
+      "trimX": 0,
+      "trimY": 56,
+      "width": 512,
+      "height": 968,
+      "rawWidth": 512,
+      "rawHeight": 1024,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

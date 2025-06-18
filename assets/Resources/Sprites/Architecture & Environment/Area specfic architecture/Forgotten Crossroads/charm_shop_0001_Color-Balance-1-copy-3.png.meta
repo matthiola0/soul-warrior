@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "729919a6-dc40-433a-88ea-628893da8f48",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 858,
+  "height": 608,
+  "platformSettings": {},
+  "subMetas": {
+    "charm_shop_0001_Color-Balance-1-copy-3": {
+      "ver": "1.0.6",
+      "uuid": "663331b0-0316-4285-b09e-cba1d5f3ec76",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "729919a6-dc40-433a-88ea-628893da8f48",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 858,
+      "height": 608,
+      "rawWidth": 858,
+      "rawHeight": 608,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

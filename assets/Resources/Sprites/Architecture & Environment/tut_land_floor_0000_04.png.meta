@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "7bf5533a-a289-4f59-a5d0-ee727908e56b",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 199,
+  "height": 25,
+  "platformSettings": {},
+  "subMetas": {
+    "tut_land_floor_0000_04": {
+      "ver": "1.0.6",
+      "uuid": "f158a082-05a4-45f6-9fd0-612963eb33a8",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "7bf5533a-a289-4f59-a5d0-ee727908e56b",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 2,
+      "trimY": 2,
+      "width": 195,
+      "height": 21,
+      "rawWidth": 199,
+      "rawHeight": 25,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

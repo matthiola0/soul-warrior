@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "63416641-0520-401e-9328-e9ece2b527c4",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 512,
+  "height": 512,
+  "platformSettings": {},
+  "subMetas": {
+    "Primal Aspid - atlas0 #0330044": {
+      "ver": "1.0.6",
+      "uuid": "b30e8344-4b61-4b69-9f95-bd7d73ad64da",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "63416641-0520-401e-9328-e9ece2b527c4",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -2.5,
+      "offsetY": -1.5,
+      "trimX": 0,
+      "trimY": 3,
+      "width": 507,
+      "height": 509,
+      "rawWidth": 512,
+      "rawHeight": 512,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

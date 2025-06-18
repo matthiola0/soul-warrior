@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "a1cc3cf5-8d42-4570-a0c9-5691925306df",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 352,
+  "height": 1011,
+  "platformSettings": {},
+  "subMetas": {
+    "tut_door_large_0008_03": {
+      "ver": "1.0.6",
+      "uuid": "94e651bc-3f21-47a0-a2ff-087cb989d045",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "a1cc3cf5-8d42-4570-a0c9-5691925306df",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": -1,
+      "trimX": 2,
+      "trimY": 2,
+      "width": 348,
+      "height": 1009,
+      "rawWidth": 352,
+      "rawHeight": 1011,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

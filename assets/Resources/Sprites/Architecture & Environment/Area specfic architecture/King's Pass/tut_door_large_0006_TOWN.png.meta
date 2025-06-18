@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "f85d15a8-0d8b-4e3e-9216-0036d2c937f4",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 265,
+  "height": 637,
+  "platformSettings": {},
+  "subMetas": {
+    "tut_door_large_0006_TOWN": {
+      "ver": "1.0.6",
+      "uuid": "7371813d-63a6-4d97-a083-05b57e57b92e",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "f85d15a8-0d8b-4e3e-9216-0036d2c937f4",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 2,
+      "trimY": 2,
+      "width": 261,
+      "height": 633,
+      "rawWidth": 265,
+      "rawHeight": 637,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

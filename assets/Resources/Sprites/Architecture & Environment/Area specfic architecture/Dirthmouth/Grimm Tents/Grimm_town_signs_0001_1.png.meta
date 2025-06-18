@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "65ab9b1f-e0a5-472d-81b1-4e1fc730fcd6",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 110,
+  "height": 238,
+  "platformSettings": {},
+  "subMetas": {
+    "Grimm_town_signs_0001_1": {
+      "ver": "1.0.6",
+      "uuid": "98fb96b4-d6a7-433e-a9a4-4de2dab8fcef",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "65ab9b1f-e0a5-472d-81b1-4e1fc730fcd6",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 110,
+      "height": 238,
+      "rawWidth": 110,
+      "rawHeight": 238,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

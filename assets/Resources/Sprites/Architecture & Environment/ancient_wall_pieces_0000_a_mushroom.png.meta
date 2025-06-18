@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "ceb89e4f-0413-49e9-8dfc-c36335c23f11",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 281,
+  "height": 145,
+  "platformSettings": {},
+  "subMetas": {
+    "ancient_wall_pieces_0000_a_mushroom": {
+      "ver": "1.0.6",
+      "uuid": "593f9d6e-fd67-47cd-b2cf-9c99c2be827e",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "ceb89e4f-0413-49e9-8dfc-c36335c23f11",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 281,
+      "height": 145,
+      "rawWidth": 281,
+      "rawHeight": 145,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

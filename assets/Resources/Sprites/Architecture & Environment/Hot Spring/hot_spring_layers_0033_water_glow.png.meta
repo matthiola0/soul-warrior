@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "5b34c65d-51fc-4f4f-8642-ebb26d9927af",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 253,
+  "height": 33,
+  "platformSettings": {},
+  "subMetas": {
+    "hot_spring_layers_0033_water_glow": {
+      "ver": "1.0.6",
+      "uuid": "b1c235f7-d515-4efc-a859-6d490133614f",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "5b34c65d-51fc-4f4f-8642-ebb26d9927af",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 1,
+      "offsetY": 0,
+      "trimX": 2,
+      "trimY": 0,
+      "width": 251,
+      "height": 33,
+      "rawWidth": 253,
+      "rawHeight": 33,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

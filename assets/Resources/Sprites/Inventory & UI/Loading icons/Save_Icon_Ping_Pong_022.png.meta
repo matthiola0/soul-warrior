@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "cf39778a-0d05-4f9e-b3aa-0e0ef2a52540",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 200,
+  "height": 200,
+  "platformSettings": {},
+  "subMetas": {
+    "Save_Icon_Ping_Pong_022": {
+      "ver": "1.0.6",
+      "uuid": "0c15ed8f-3663-4ad2-81dc-2347bc75120a",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "cf39778a-0d05-4f9e-b3aa-0e0ef2a52540",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -2,
+      "offsetY": 2,
+      "trimX": 36,
+      "trimY": 31,
+      "width": 124,
+      "height": 134,
+      "rawWidth": 200,
+      "rawHeight": 200,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

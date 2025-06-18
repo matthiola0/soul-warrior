@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "135b882c-7ead-4937-bde0-8d15b8b624bb",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 263,
+  "height": 610,
+  "platformSettings": {},
+  "subMetas": {
+    "town_grave_cross_bits_01_0015_Color-Balance-1-copy-16": {
+      "ver": "1.0.6",
+      "uuid": "8ef4ceb2-254d-4415-b542-a993e1d49820",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "135b882c-7ead-4937-bde0-8d15b8b624bb",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 263,
+      "height": 610,
+      "rawWidth": 263,
+      "rawHeight": 610,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "f71423ee-167a-4f5c-b1c7-36a2b7140573",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 72,
+  "height": 159,
+  "platformSettings": {},
+  "subMetas": {
+    "Ouiji_Cave_0007_mid_candles2": {
+      "ver": "1.0.6",
+      "uuid": "a91495a6-872f-46ba-bf37-5260aea229ac",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "f71423ee-167a-4f5c-b1c7-36a2b7140573",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 72,
+      "height": 159,
+      "rawWidth": 72,
+      "rawHeight": 159,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

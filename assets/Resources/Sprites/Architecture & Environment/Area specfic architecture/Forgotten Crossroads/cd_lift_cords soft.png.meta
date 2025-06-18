@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "d473f0ff-f730-43c5-8601-fd07cf558d9f",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 101,
+  "height": 128,
+  "platformSettings": {},
+  "subMetas": {
+    "cd_lift_cords soft": {
+      "ver": "1.0.6",
+      "uuid": "60210946-b770-4f94-97d8-ed14db25a96c",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "d473f0ff-f730-43c5-8601-fd07cf558d9f",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 1,
+      "offsetY": 0,
+      "trimX": 2,
+      "trimY": 0,
+      "width": 99,
+      "height": 128,
+      "rawWidth": 101,
+      "rawHeight": 128,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

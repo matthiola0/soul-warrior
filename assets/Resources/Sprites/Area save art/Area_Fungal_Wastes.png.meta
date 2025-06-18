@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "64211ead-8a7e-48bc-ab32-ff3c8084566b",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 736,
+  "height": 117,
+  "platformSettings": {},
+  "subMetas": {
+    "Area_Fungal_Wastes": {
+      "ver": "1.0.6",
+      "uuid": "0ffd00b4-aea6-46c7-9d3a-512d86030dd0",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "64211ead-8a7e-48bc-ab32-ff3c8084566b",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 736,
+      "height": 117,
+      "rawWidth": 736,
+      "rawHeight": 117,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

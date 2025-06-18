@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "34cdc0a6-43da-405c-adbf-c0fc1d0496d7",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 586,
+  "height": 814,
+  "platformSettings": {},
+  "subMetas": {
+    "Ouiji_Cave_0013_ouiji_ext_cave": {
+      "ver": "1.0.6",
+      "uuid": "987f3e25-4421-4689-99d5-80cbb6c74d6f",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "34cdc0a6-43da-405c-adbf-c0fc1d0496d7",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 586,
+      "height": 814,
+      "rawWidth": 586,
+      "rawHeight": 814,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

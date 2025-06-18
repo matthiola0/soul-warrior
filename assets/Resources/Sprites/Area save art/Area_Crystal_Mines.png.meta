@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "4a18bf15-3775-4e3b-9673-f517c4881dee",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 736,
+  "height": 117,
+  "platformSettings": {},
+  "subMetas": {
+    "Area_Crystal_Mines": {
+      "ver": "1.0.6",
+      "uuid": "4c4b845f-d6d9-4e04-b02a-f1bf374201de",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "4a18bf15-3775-4e3b-9673-f517c4881dee",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 736,
+      "height": 117,
+      "rawWidth": 736,
+      "rawHeight": 117,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "24723011-7412-4e38-9d21-49d8ba736c1e",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 280,
+  "height": 145,
+  "platformSettings": {},
+  "subMetas": {
+    "ancient_wall_pieces_0000_a_hive": {
+      "ver": "1.0.6",
+      "uuid": "1964d542-6b28-48aa-817f-bde8b665effa",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "24723011-7412-4e38-9d21-49d8ba736c1e",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": -0.5,
+      "trimX": 0,
+      "trimY": 1,
+      "width": 280,
+      "height": 144,
+      "rawWidth": 280,
+      "rawHeight": 145,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

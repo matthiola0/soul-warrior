@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "d5e25b7e-dcf0-4d62-a379-4492d48d22f7",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 58,
+  "height": 186,
+  "platformSettings": {},
+  "subMetas": {
+    "town_grass_death_particle": {
+      "ver": "1.0.6",
+      "uuid": "23715b63-607c-4dcb-9115-c14f9359b11b",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "d5e25b7e-dcf0-4d62-a379-4492d48d22f7",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 1,
+      "trimX": 12,
+      "trimY": 2,
+      "width": 34,
+      "height": 180,
+      "rawWidth": 58,
+      "rawHeight": 186,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

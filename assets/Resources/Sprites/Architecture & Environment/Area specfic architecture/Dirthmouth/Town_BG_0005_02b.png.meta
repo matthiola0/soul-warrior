@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "697324bc-0cc8-4511-b236-5534f90f916d",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 104,
+  "height": 96,
+  "platformSettings": {},
+  "subMetas": {
+    "Town_BG_0005_02b": {
+      "ver": "1.0.6",
+      "uuid": "d897cf41-0ccf-4f0e-8b6a-bd3042b25a4d",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "697324bc-0cc8-4511-b236-5534f90f916d",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": -1,
+      "trimX": 0,
+      "trimY": 2,
+      "width": 104,
+      "height": 94,
+      "rawWidth": 104,
+      "rawHeight": 96,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

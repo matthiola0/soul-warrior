@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "fdc7fbc0-c4ca-41d3-bce3-df97bd8cd2db",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 732,
+  "height": 117,
+  "platformSettings": {},
+  "subMetas": {
+    "Area_Art_City_of_Tears": {
+      "ver": "1.0.6",
+      "uuid": "9d348b57-fd87-4d33-81a8-45c82f6f3215",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "fdc7fbc0-c4ca-41d3-bce3-df97bd8cd2db",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 732,
+      "height": 117,
+      "rawWidth": 732,
+      "rawHeight": 117,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

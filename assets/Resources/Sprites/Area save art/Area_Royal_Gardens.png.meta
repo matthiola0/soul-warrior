@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "815e63e3-c23c-4ea1-8002-e2afe0b4e086",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 736,
+  "height": 117,
+  "platformSettings": {},
+  "subMetas": {
+    "Area_Royal_Gardens": {
+      "ver": "1.0.6",
+      "uuid": "d8f4e59e-2b3f-422e-8f2c-35c0407bbc7c",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "815e63e3-c23c-4ea1-8002-e2afe0b4e086",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 1.5,
+      "offsetY": 0,
+      "trimX": 3,
+      "trimY": 0,
+      "width": 733,
+      "height": 117,
+      "rawWidth": 736,
+      "rawHeight": 117,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

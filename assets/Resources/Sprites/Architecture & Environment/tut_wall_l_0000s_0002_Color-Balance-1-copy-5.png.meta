@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "3051632b-7c4b-437c-8d30-575d5aa6706a",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 192,
+  "height": 234,
+  "platformSettings": {},
+  "subMetas": {
+    "tut_wall_l_0000s_0002_Color-Balance-1-copy-5": {
+      "ver": "1.0.6",
+      "uuid": "0eb58cf2-62e4-485d-a360-89fa0f6b7922",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "3051632b-7c4b-437c-8d30-575d5aa6706a",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0.5,
+      "offsetY": 0,
+      "trimX": 2,
+      "trimY": 2,
+      "width": 189,
+      "height": 230,
+      "rawWidth": 192,
+      "rawHeight": 234,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

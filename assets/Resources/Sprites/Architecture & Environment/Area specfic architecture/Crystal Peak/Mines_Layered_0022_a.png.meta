@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "40451210-b742-4758-909d-da708e4aedaf",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 256,
+  "height": 230,
+  "platformSettings": {},
+  "subMetas": {
+    "Mines_Layered_0022_a": {
+      "ver": "1.0.6",
+      "uuid": "10405bf9-b048-4df3-9a21-cef5c53b6643",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "40451210-b742-4758-909d-da708e4aedaf",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 256,
+      "height": 230,
+      "rawWidth": 256,
+      "rawHeight": 230,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

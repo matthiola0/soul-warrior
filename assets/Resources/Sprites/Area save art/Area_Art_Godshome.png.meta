@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "6b4baf4d-bec0-4e31-ba43-15611d8584eb",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 732,
+  "height": 117,
+  "platformSettings": {},
+  "subMetas": {
+    "Area_Art_Godshome": {
+      "ver": "1.0.6",
+      "uuid": "37c1ce71-7686-40de-a617-87c67f302ef5",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "6b4baf4d-bec0-4e31-ba43-15611d8584eb",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 732,
+      "height": 117,
+      "rawWidth": 732,
+      "rawHeight": 117,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

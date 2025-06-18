@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "9a82daeb-f75f-4c02-9af4-40afdf4b9cd2",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 1024,
+  "height": 1024,
+  "platformSettings": {},
+  "subMetas": {
+    "Goam - atlas0 #05203": {
+      "ver": "1.0.6",
+      "uuid": "a81c0424-5ac9-45fb-a9b5-a0f4ed2963de",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "9a82daeb-f75f-4c02-9af4-40afdf4b9cd2",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -4,
+      "offsetY": -51,
+      "trimX": 0,
+      "trimY": 102,
+      "width": 1016,
+      "height": 922,
+      "rawWidth": 1024,
+      "rawHeight": 1024,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

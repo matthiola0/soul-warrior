@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "10163245-804e-499d-a125-3a816b5ff80c",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 20,
+  "height": 20,
+  "platformSettings": {},
+  "subMetas": {
+    "select_game_HUD_0000_magic_orb_steel": {
+      "ver": "1.0.6",
+      "uuid": "fb670bca-bf2a-4458-b1cc-23810e18bf66",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "10163245-804e-499d-a125-3a816b5ff80c",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 20,
+      "height": 20,
+      "rawWidth": 20,
+      "rawHeight": 20,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

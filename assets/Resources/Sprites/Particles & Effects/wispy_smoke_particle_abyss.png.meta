@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "f305e4db-3b4d-444c-bd21-ca702b02f593",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 102,
+  "height": 512,
+  "platformSettings": {},
+  "subMetas": {
+    "wispy_smoke_particle_abyss": {
+      "ver": "1.0.6",
+      "uuid": "fcf4008e-8e2a-4ac6-b6e0-758590dbf5da",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "f305e4db-3b4d-444c-bd21-ca702b02f593",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -1.5,
+      "offsetY": 4,
+      "trimX": 0,
+      "trimY": 7,
+      "width": 99,
+      "height": 490,
+      "rawWidth": 102,
+      "rawHeight": 512,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

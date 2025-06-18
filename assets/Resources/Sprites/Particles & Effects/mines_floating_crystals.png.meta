@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "9c1fdbd8-16d2-442b-82f9-dc72d390836a",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 85,
+  "height": 243,
+  "platformSettings": {},
+  "subMetas": {
+    "mines_floating_crystals": {
+      "ver": "1.0.6",
+      "uuid": "8950f9bf-0d9f-448c-988c-54d8e19f86cf",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "9c1fdbd8-16d2-442b-82f9-dc72d390836a",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0.5,
+      "offsetY": -3,
+      "trimX": 18,
+      "trimY": 18,
+      "width": 50,
+      "height": 213,
+      "rawWidth": 85,
+      "rawHeight": 243,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "23fe0148-ee63-4763-a095-9f133b43f635",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 7,
+  "height": 30,
+  "platformSettings": {},
+  "subMetas": {
+    "bg_highway_bridge_0001_4": {
+      "ver": "1.0.6",
+      "uuid": "4a975b62-32fa-4dc5-b45f-5269f8a1c1aa",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "23fe0148-ee63-4763-a095-9f133b43f635",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 7,
+      "height": 30,
+      "rawWidth": 7,
+      "rawHeight": 30,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

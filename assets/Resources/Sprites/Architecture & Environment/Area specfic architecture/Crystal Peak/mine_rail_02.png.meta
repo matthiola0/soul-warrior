@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "409fa6ca-f799-4589-9dca-c42fb35e555c",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 447,
+  "height": 106,
+  "platformSettings": {},
+  "subMetas": {
+    "mine_rail_02": {
+      "ver": "1.0.6",
+      "uuid": "86eb16b1-4833-4073-8d69-de28db01c2fe",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "409fa6ca-f799-4589-9dca-c42fb35e555c",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 447,
+      "height": 106,
+      "rawWidth": 447,
+      "rawHeight": 106,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "d315058a-94a2-49e1-bf1e-ff3c8396af6f",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 505,
+  "height": 176,
+  "platformSettings": {},
+  "subMetas": {
+    "select_game_HUD_godseeker": {
+      "ver": "1.0.6",
+      "uuid": "a7b0266b-ff42-4bb0-a882-cc4a757da01a",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "d315058a-94a2-49e1-bf1e-ff3c8396af6f",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -109.5,
+      "offsetY": -0.5,
+      "trimX": 1,
+      "trimY": 9,
+      "width": 284,
+      "height": 159,
+      "rawWidth": 505,
+      "rawHeight": 176,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

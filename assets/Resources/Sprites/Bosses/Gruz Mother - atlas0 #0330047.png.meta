@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "bccc96be-0a88-43a1-afe5-0c57a171031d",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 2048,
+  "height": 2048,
+  "platformSettings": {},
+  "subMetas": {
+    "Gruz Mother - atlas0 #0330047": {
+      "ver": "1.0.6",
+      "uuid": "bfc7bc3c-6efc-4e8f-9357-87c181a48280",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "bccc96be-0a88-43a1-afe5-0c57a171031d",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -4,
+      "offsetY": -260.5,
+      "trimX": 0,
+      "trimY": 521,
+      "width": 2040,
+      "height": 1527,
+      "rawWidth": 2048,
+      "rawHeight": 2048,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "97d1c33d-eba7-4837-8403-ae85bbfa5883",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 900,
+  "height": 900,
+  "platformSettings": {},
+  "subMetas": {
+    "Hollow Knight Icon": {
+      "ver": "1.0.6",
+      "uuid": "fc3a9a6c-7955-44ec-bc04-0a03908526d2",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "97d1c33d-eba7-4837-8403-ae85bbfa5883",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 900,
+      "height": 900,
+      "rawWidth": 900,
+      "rawHeight": 900,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

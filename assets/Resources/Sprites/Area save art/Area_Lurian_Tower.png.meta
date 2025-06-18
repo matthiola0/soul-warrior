@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "95d453a7-7ece-4589-968d-50ffbd3ea074",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 736,
+  "height": 117,
+  "platformSettings": {},
+  "subMetas": {
+    "Area_Lurian_Tower": {
+      "ver": "1.0.6",
+      "uuid": "b4b80392-2faf-450a-852a-4fcba18c6779",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "95d453a7-7ece-4589-968d-50ffbd3ea074",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 1.5,
+      "offsetY": 0,
+      "trimX": 3,
+      "trimY": 0,
+      "width": 733,
+      "height": 117,
+      "rawWidth": 736,
+      "rawHeight": 117,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

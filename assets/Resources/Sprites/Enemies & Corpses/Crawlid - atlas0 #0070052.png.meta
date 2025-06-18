@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "52b4cb68-c31a-45a5-8a55-b466a48699c9",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 512,
+  "height": 512,
+  "platformSettings": {},
+  "subMetas": {
+    "Crawlid - atlas0 #0070052": {
+      "ver": "1.0.6",
+      "uuid": "687bcfff-8cca-4aa3-b7eb-23f3858210ac",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "52b4cb68-c31a-45a5-8a55-b466a48699c9",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -2.5,
+      "offsetY": 56,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 507,
+      "height": 400,
+      "rawWidth": 512,
+      "rawHeight": 512,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "acc33777-c5b2-4149-99eb-18918023611d",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 268,
+  "height": 128,
+  "platformSettings": {},
+  "subMetas": {
+    "ancient_wall_pieces_0000_roof": {
+      "ver": "1.0.6",
+      "uuid": "4798557f-cb10-42c4-803d-60994377a759",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "acc33777-c5b2-4149-99eb-18918023611d",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 268,
+      "height": 128,
+      "rawWidth": 268,
+      "rawHeight": 128,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

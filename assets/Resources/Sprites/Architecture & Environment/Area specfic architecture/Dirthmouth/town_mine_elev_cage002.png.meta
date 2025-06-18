@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "c3c5adc1-eec1-4118-89b1-d7272457da03",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 247,
+  "height": 359,
+  "platformSettings": {},
+  "subMetas": {
+    "town_mine_elev_cage002": {
+      "ver": "1.0.6",
+      "uuid": "cbaaf333-f1e9-464a-8a27-b70804480a0b",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "c3c5adc1-eec1-4118-89b1-d7272457da03",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -1,
+      "offsetY": 0.5,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 245,
+      "height": 358,
+      "rawWidth": 247,
+      "rawHeight": 359,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "394b1bd1-c5dc-4bd4-84f7-87a96177b07e",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 155,
+  "height": 71,
+  "platformSettings": {},
+  "subMetas": {
+    "Hallownest_Gate_0019_01": {
+      "ver": "1.0.6",
+      "uuid": "35b5ff32-613b-49f0-a4db-685d864f99b8",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "394b1bd1-c5dc-4bd4-84f7-87a96177b07e",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 155,
+      "height": 71,
+      "rawWidth": 155,
+      "rawHeight": 71,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

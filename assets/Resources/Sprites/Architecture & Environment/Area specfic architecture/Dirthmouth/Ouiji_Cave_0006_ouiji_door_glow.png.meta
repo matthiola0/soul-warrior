@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "bb9ec8a3-826c-452a-ada0-e29e2a9550e2",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 69,
+  "height": 43,
+  "platformSettings": {},
+  "subMetas": {
+    "Ouiji_Cave_0006_ouiji_door_glow": {
+      "ver": "1.0.6",
+      "uuid": "0180de8a-7f89-4212-ad81-a90af3df1824",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "bb9ec8a3-826c-452a-ada0-e29e2a9550e2",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -1,
+      "offsetY": 1,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 67,
+      "height": 41,
+      "rawWidth": 69,
+      "rawHeight": 43,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

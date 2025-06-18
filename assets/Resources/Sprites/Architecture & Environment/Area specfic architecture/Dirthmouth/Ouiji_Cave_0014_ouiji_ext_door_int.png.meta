@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "75392b9d-0941-45e1-8695-35f84ce1111b",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 402,
+  "height": 382,
+  "platformSettings": {},
+  "subMetas": {
+    "Ouiji_Cave_0014_ouiji_ext_door_int": {
+      "ver": "1.0.6",
+      "uuid": "45b0a96a-dd82-4c91-af43-8cfbf24feded",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "75392b9d-0941-45e1-8695-35f84ce1111b",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 402,
+      "height": 382,
+      "rawWidth": 402,
+      "rawHeight": 382,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

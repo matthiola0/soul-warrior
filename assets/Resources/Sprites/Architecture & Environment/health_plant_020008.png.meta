@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "5d3a6f66-6277-42bd-b2e0-7717bc0e792f",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 183,
+  "height": 303,
+  "platformSettings": {},
+  "subMetas": {
+    "health_plant_020008": {
+      "ver": "1.0.6",
+      "uuid": "1d8fc264-6da8-4f98-b337-91f17058517f",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "5d3a6f66-6277-42bd-b2e0-7717bc0e792f",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 2,
+      "trimY": 2,
+      "width": 179,
+      "height": 299,
+      "rawWidth": 183,
+      "rawHeight": 303,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

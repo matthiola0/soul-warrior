@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "09a21091-7221-465d-a162-2e2aebb116bc",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 1375,
+  "height": 486,
+  "platformSettings": {},
+  "subMetas": {
+    "grub_homes_0013_Color-Balance-1-copy-27": {
+      "ver": "1.0.6",
+      "uuid": "ac22cc0a-429a-4f53-bddb-d5631f79a5e6",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "09a21091-7221-465d-a162-2e2aebb116bc",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 1375,
+      "height": 486,
+      "rawWidth": 1375,
+      "rawHeight": 486,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

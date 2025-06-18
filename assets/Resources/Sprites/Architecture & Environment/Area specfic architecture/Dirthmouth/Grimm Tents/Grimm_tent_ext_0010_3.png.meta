@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "7fbef4ed-7652-493f-8101-886f03cc27d2",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 379,
+  "height": 566,
+  "platformSettings": {},
+  "subMetas": {
+    "Grimm_tent_ext_0010_3": {
+      "ver": "1.0.6",
+      "uuid": "a02bc6f3-ad36-4d9a-9368-14e990ae19ca",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "7fbef4ed-7652-493f-8101-886f03cc27d2",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 379,
+      "height": 566,
+      "rawWidth": 379,
+      "rawHeight": 566,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

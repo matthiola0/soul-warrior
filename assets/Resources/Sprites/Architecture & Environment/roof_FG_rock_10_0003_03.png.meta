@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "3bbfff36-ec2c-4661-b649-9694ac4d3ad3",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 369,
+  "height": 250,
+  "platformSettings": {},
+  "subMetas": {
+    "roof_FG_rock_10_0003_03": {
+      "ver": "1.0.6",
+      "uuid": "df70aa44-361d-4d20-8278-1d496c4a4ffc",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "3bbfff36-ec2c-4661-b649-9694ac4d3ad3",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0.5,
+      "offsetY": 0.5,
+      "trimX": 2,
+      "trimY": 2,
+      "width": 366,
+      "height": 245,
+      "rawWidth": 369,
+      "rawHeight": 250,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

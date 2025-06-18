@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "ea9dd67a-5e5a-40bb-a283-ff29ed2ce2d3",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 57,
+  "height": 148,
+  "platformSettings": {},
+  "subMetas": {
+    "cd_tollbooth_lamp": {
+      "ver": "1.0.6",
+      "uuid": "8bee90b2-e881-45fc-86b3-d0aaee142e63",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "ea9dd67a-5e5a-40bb-a283-ff29ed2ce2d3",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 57,
+      "height": 148,
+      "rawWidth": 57,
+      "rawHeight": 148,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

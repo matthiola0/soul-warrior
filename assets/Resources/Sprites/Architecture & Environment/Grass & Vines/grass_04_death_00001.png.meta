@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "f65488e4-7c33-48c2-ae90-49d986798b16",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 52,
+  "height": 43,
+  "platformSettings": {},
+  "subMetas": {
+    "grass_04_death_00001": {
+      "ver": "1.0.6",
+      "uuid": "66ba04b5-ed49-49bd-8724-3cbd7a3435d4",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "f65488e4-7c33-48c2-ae90-49d986798b16",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -0.5,
+      "offsetY": -1,
+      "trimX": 1,
+      "trimY": 2,
+      "width": 49,
+      "height": 41,
+      "rawWidth": 52,
+      "rawHeight": 43,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

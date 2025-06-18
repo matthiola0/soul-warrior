@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "5186b61a-4390-4c8c-846e-2cf80016c1eb",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 33,
+  "height": 41,
+  "platformSettings": {},
+  "subMetas": {
+    "select_game_HUD_0001_health_steel": {
+      "ver": "1.0.6",
+      "uuid": "b861ec01-b549-4fcd-bf58-9ca11c85c56e",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "5186b61a-4390-4c8c-846e-2cf80016c1eb",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 33,
+      "height": 41,
+      "rawWidth": 33,
+      "rawHeight": 41,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
